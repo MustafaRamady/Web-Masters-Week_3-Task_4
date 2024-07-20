@@ -1,0 +1,6 @@
+{
+  "myData": [
+    { "name": "Mustafa", "age": 21, "country": "EGY" },
+    { "name": "Magdi", "age": 58, "country": "UAE" }
+  ]
+}
